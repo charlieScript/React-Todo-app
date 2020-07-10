@@ -1,0 +1,12 @@
+nav {
+    text-align: center;
+    color: white;
+    margin: 1rem;
+}
+
+@media screen and (max-width: 400px) {
+    nav {
+        text-align: center;
+        margin: 0.7rem 0;
+    }
+}
